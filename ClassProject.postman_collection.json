@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "277a0dfc-3f99-4700-b2a9-49823a17369f",
+		"name": "ClassProject",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37040190",
+		"_collection_link": "https://uiyhuii.postman.co/workspace/cc7865ff-f163-4934-8f7a-2a824db6f9af/collection/37040190-277a0dfc-3f99-4700-b2a9-49823a17369f?action=share&source=collection_link&creator=37040190"
+	},
+	"item": [
+		{
+			"name": "Get_200",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jsonplaceholder.typicode.com/",
+					"protocol": "https",
+					"host": [
+						"jsonplaceholder",
+						"typicode",
+						"com"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Post404&80",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
